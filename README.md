@@ -1,6 +1,6 @@
 ### Hi 👋, my name is Travis Williams
 #### I am an aspiring software engineer from Jamaica
-I genuinely think the modern world is pretty awesome. Quality of life is much higher now than even 100 years ago. That improvement is, imo, pretty much all due to the work of generations of scientists, engineers and inventors. I'm extremely grateful. I'd like to pay it forward by dedicating my career to building things that improve the lives of others. I truly care deeply about solving peoples problems and pain points. 
+I genuinely think the modern world is pretty awesome. Quality of life is much higher now than even 100 years ago. That improvement is, imo, pretty much all due to the work of scientists, engineers and inventors. Past and Present. I am extremely grateful and indebted to them. I'd like to pay it forward by dedicating my career to building things that improve the lives of others. I truly care deeply about solving peoples problems and pain points; and am optimzing towards that end. 
 
 Skills: REACT / JS / HTML / CSS / SQL 
 
