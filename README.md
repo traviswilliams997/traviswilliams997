@@ -1,21 +1,14 @@
-### Hi there 👋, I'm Travis Williams
-#### I am an aspiring software engineer from Jamaica 
+### Hi 👋, my name is Travis Williams
+#### I am an aspiring software engineer from Jamaica
+I genuinely think the modern world is pretty awesome. Quality of life is much higher now than even 100 years ago. That improvement is, imo, pretty much all due to the work of generations of scientists, engineers and inventors. I'm extremely grateful. I'd like to pay it forward by dedicating my career to building things that improve the lives of others. I truly care deeply about solving peoples problems and pain points. 
 
-I care deeply about building things that improve people's lives. 
+Skills: REACT / JS / HTML / CSS / SQL 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=traviswilliams997)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on a volunteering platform 
+- 🌱 I’m currently learning intermediate react 
 
-<!--
-**traviswilliams997/traviswilliams997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/traviswilliams997)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/travis-travis/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=traviswilliams997&show_icons=true)  
+
