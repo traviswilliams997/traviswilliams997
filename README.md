@@ -10,5 +10,3 @@ I genuinely think the modern world is pretty awesome. Quality of life is much hi
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/travis-travis/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://whimsical-naiad-37a6fe.netlify.app/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=traviswilliams997)](https://github.com/anuraghazra/github-readme-stats)
-
